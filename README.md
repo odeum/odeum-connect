@@ -1,6 +1,6 @@
-# ODEUM CodeJS API Connector - odeum-connect
+# ODEUM Connect
 
-ODEUM CodeJS API Connector is a module that connects ODEUM CodeJS with the ODEUM API.
+ODEUM Connect is a module that connects ODEUM CodeJS with ODEUM API.
 
 ```
 npm install odeum-connect
