@@ -4,3 +4,4 @@ setup.sh
 runfile.txt
 .npmignore
 .gitignore
+.travis.yml
