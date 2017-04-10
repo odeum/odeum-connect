@@ -1,0 +1,6 @@
+node_modules
+src
+setup.sh
+runfile.txt
+.npmignore
+.gitignore
