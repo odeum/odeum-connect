@@ -16,5 +16,5 @@ deploy:
   api_key:
     secure: o6rZ+ePUzhPibIg3+5u2I1t2UsbTjoHC017D6hK13IyK/fHOnzBLE0uEYJa9b3L3JH+f/qO4GN1gc/1WOrjNwthGoWSrEiZVh3d6JqBSMo7DkauHlxEqa+ODNKMcJUtKvy96m6fGulqsYGqNy3fJ8G5HaM+MaK1pHCvzQKiHPUlTcRF63H2cyzOEtv7LllAScb4PNlJRy0p7l653x9UqJz3bcx4H1u1BeskrNyQ/PaF1y/+/MFzR2xDOv1eFSbfcNzKiVp0KbKSpzTzgHMP/yOqSrTQPBj7PnlAGP3TU+lcfwFO6zpj2JAQXheocV2esI+xh91qndY1dPSFGfpP2TF3iMbet6TcKmKRa93ZY1o+Xr5nJ4IpoqCuain+n42vraSAlSO4nhlKq5rqW7aTsR/YwWYg3O+bFTspZNAqAvz5CPUITcDiC/XOblaKBgkQwMqaP5FeDUddQg9tUxh244cFzm3T+cGIRN8kiYmmmzTy0vU1W9hHyUfFM8gLEtFkeVkPc85r+8jh4LQHOxbfFQGop8qdp4MZ65D7QjDEvb85zYl0NGGbH9gk2lQ8i29xkXkmAWpj5+hICAgHPWzCms5LhiJvyMhVd7xMD63lhvG+G7zdjAy6EPd5mW9kNqnLpzhk4hr3oztabtsX88z9bBDehWeua71DEuWHqBerivO8=
   on:
-    tags: true
+    tags: false
     repo: odeum/odeum-connect
