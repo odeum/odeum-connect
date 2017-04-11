@@ -9,3 +9,5 @@ branches:
         - master
 script:
   - npm run build
+  - npm publish
+  
