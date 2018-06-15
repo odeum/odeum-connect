@@ -1,6 +1,6 @@
 {
   "name": "odeum-connect",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "ODEUM Connect is a module that connects ODEUM CodeJS with ODEUM API",
   "main": "lib/index.js",
   "author": "Christian Broberg",
