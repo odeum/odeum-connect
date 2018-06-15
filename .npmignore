@@ -1,3 +1,4 @@
+/src
 node_modules
 src
 setup.sh
@@ -5,3 +6,8 @@ runfile.txt
 .npmignore
 .gitignore
 .travis.yml
+yarn.lock
+.eslintignore
+.eslintrc.json
+babelrc
+.npmignore
