@@ -1,4 +1,5 @@
 import React from 'react'
+import Geolocation from './components/Geolocation/Geolocation'
 
 const APIConnector = () => {
   return (
@@ -6,4 +7,7 @@ const APIConnector = () => {
   )
 }
 
-export default APIConnector
+export {
+	APIConnector,
+	Geolocation
+}
